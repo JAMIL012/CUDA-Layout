@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,400;1,300&display=swap');
+* {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+header {
+  background-color: #87509c;
+  color: ;
+}
+header .btn {
+  background-color: #eb7d4b;
+}
+header .nav-item:hover {
+  background-color: rgba(0, 0, 0, 0.126);
+}
+.underline {
+  border-bottom: 5px solid rgba(0, 0, 0, 0.199);
+  width: 70px;
+  margin: auto;
+}
+#SERVICES {
+  background-color: #17c2a4;
+  color: #fff;
+}
+#team {
+  background-color: #e7f1f8;
+}
+
+#portfolio {
+  background-color: #ffdd99;
+}
+
+section .button .btn {
+  background-color: rgba(0, 0, 0, 0.128);
+}
+section .btn:hover {
+  background-color: #fff;
+}
+
+#portfolio button {
+  background-color: #17c2a4;
+}
+
+#about {
+  background-color: #d74680;
+  color: #fff;
+}
+#about .sub {
+  color: #ffdd99;
+}
+#contact {
+  background-color: #3c5499;
+  color: #fff;
+}
+
+.form-control {
+  background-color: #273a71;
+}
+
+#contact .send .btn {
+  background-color: #30bae7;
+}
+
+footer {
+  background-color: #344b8e;
+}
+
+#website .button .btn {
+  color: white;
+}
+#website .button .btn:hover {
+  background-color: #30bae7;
+}
